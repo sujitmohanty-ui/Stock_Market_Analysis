@@ -200,10 +200,10 @@ jupyter notebook Stock_Market_Analysis.ipynb
 
 | Name                   | Role                            |
 | ---------------------- | ------------------------------- |
-| Sujit Mohanty          | Data Analysis, LSTM Model       |
-| Pratyush Kumar Pradhan | Data Collection & Preprocessing |
-| B S Arman              | Visualization & Testing         |
-| Ankit Kumar Dey        | Backend & Integration           |
+|                        | Data Analysis, LSTM Model       |
+|   Sujit Mohanty        | Data Collection & Preprocessing |
+|                        | Visualization & Testing         |
+|                        | Backend & Integration           |
 
 > GitHub automatically tracks contributions using `git blame` and commit history.
 
